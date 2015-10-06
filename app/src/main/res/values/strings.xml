@@ -1,0 +1,14 @@
+<resources>
+    <string name="fb_app_id">490077154488513</string>
+    <string name="app_name">Blogger</string>
+    <string name="blogger">Blogger!</string>
+    <string name="action_share">Share</string>
+    <string name="view_posts">View Posts</string>
+    <string name="api_key">AIzaSyAfnvreNlSYlhns4EmFy3LqEwpbAB2nsWQ</string>
+    <string name="prefix_labels">"Labels : "</string>
+    <string name="blog_posts">Recent Blogs</string>
+    <string name="blog_url1">"https://www.controversyextraordinary.com"</string>
+    <string name="blog_url2">"http://android-developers.blogspot.com"</string>
+    <string name="open_drawer">"open"</string>
+    <string name="close_drawer">"close"</string>
+</resources>
