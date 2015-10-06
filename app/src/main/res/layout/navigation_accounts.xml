@@ -7,9 +7,10 @@
     android:padding="@dimen/dp_10">
 
     <ImageView
+        android:layout_marginTop="@dimen/dp_50"
         android:id="@+id/user_photo"
-        android:layout_width="@dimen/dp_60"
-        android:layout_height="@dimen/dp_60"
+        android:layout_width="@dimen/dp_80"
+        android:layout_height="@dimen/dp_80"
         android:layout_above="@+id/user_name"
         android:layout_marginLeft="@dimen/dp_10"
         android:background="@android:color/transparent" />
@@ -30,13 +31,14 @@
         android:layout_marginLeft="@dimen/dp_10"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:gravity="center"
         android:orientation="horizontal">
 
         <ImageView
             android:id="@+id/facebook_logo"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginRight="@dimen/dp_10"
+            android:layout_marginRight="@dimen/dp_5"
             android:background="@drawable/fb_logo" />
 
         <ImageView
